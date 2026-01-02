@@ -1,0 +1,11 @@
+[package]
+name = "tssg-util"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["@k0src"]
+license = "MIT"
+categories = ["components", "integration", "scripting", "utility"]
+keywords = ["static site generator", "static site", "website", "blog"]
+description = "Utility functions for Typst Static Site Generator"
+repository = "https://github.com/k0src/Typst-SSG-Util-Package"
+exclude = ["docs/"]
