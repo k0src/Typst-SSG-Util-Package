@@ -884,7 +884,7 @@ Reading time: #long-time",
 #func-params(
   "reading-time",
   params: (
-    "title": (
+    "content": (
       desc: "The content to estimate reading time for.",
       types: ("str", "content"),
       default: none,
